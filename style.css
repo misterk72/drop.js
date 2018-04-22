@@ -1,0 +1,5 @@
+canvas {
+    background:#aaaaaa;
+    background-image:url(img/background.jpg);
+    border: 10px inset brown;
+}
